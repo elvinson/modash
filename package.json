@@ -1,0 +1,27 @@
+{
+  "name": "modash",
+  "version": "1.0.0",
+  "description": "lodash-like staff with qunit tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "qunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvinson/modash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elvinson/modash/issues"
+  },
+  "homepage": "https://github.com/elvinson/modash#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.10",
+    "qunit": "^2.17.2"
+  }
+}
